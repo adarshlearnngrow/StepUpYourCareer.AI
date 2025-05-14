@@ -1,0 +1,148 @@
+{
+  "target_role": "Data Analyst",
+  "resume_text": "**ANONYMOUS RESUME**\n\n**PROFILE**  \nMSc Computer Science student with a Bachelor's in Computer Engineering and Honors in Data Science. Achieved a GPA of 9.72/10 (1:1). Skilled in Python, SQL, Tableau, and PowerBI with hands-on experience in data analysis, visualization, and machine learning. Passionate about using data to drive decision-making and solve real-world problems as an aspiring Data Analyst.\n\n**TECHNICAL SKILLS**  \n\u2022 Programming Languages: Python, SQL, Java  \n\u2022 Frameworks: Django, TensorFlow, React.js, Scikit-learn  \n\u2022 Tools: PowerBI, Excel, Figma, Tableau, Git/GitHub, MS Office  \n\u2022 Cloud Technologies: Google Cloud, Microsoft Azure, AWS  \n\n**EDUCATION**  \nMSc Computer Science (Negotiated Learning): University College Dublin, Ireland (1:1)                          2024 - 2025  \nRelevant Courses: Data Science, Machine Learning, Cloud Computing, Multi-Agent Systems, Big Data Programming, Advanced Data Structures, Gen AI, Deep Learning, Connectionism and Dynamical Systems, AI & Ethics.  \n\nB.E Computer Engineering with Honors in Data Science (GPA: 9.72/10): University of Mumbai, India             2020 - 2024  \nRelevant Courses: Python, Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Big Data Analytics, Natural Language Processing, Statistics for Data Science  \n\n**WORK EXPERIENCE/INTERNSHIPS**  \nMachine Learning and Data Science Intern - PHN Technology, Remote                      April 2023 \u2013 June 2023  \n\u2022 Analyzed financial and insurance datasets, performing data cleaning, preprocessing, and feature engineering using Python, SQL, and Excel.  \n\u2022 Built and deployed machine learning models to detect fraud patterns, identify key attributes, and improve fraud identification.  \n\u2022 Developed Power BI dashboards to visualize fraud trends and presented insights to stakeholders.  \n\nFull-Stack Developer Intern - Finesse Fashions Pvt. Ltd., India                      June 2022 \u2013 August 2022  \n\u2022 Managed the online store\u2019s clothing inventory and enhanced the visual appeal and user-friendliness of the website by implementing a clean UI using HTML, CSS, PHP, and Laravel framework.  \n\u2022 Integrated a secure payment gateway to facilitate smooth and encrypted online transactions.  \n\n**ACADEMIC PROJECTS**  \nMelanoma Prognosis and Care  \n\u2022 Developed a Django-based web app in Python for real-time skin lesion classification, detecting cancerous and non-cancerous spots and further categorizing cancer into nine types.  \n\u2022 Achieved 92% accuracy with a binary classifier and 96% with a multi-class CNN classifier.  \n\u2022 Presented paper at a conference titled \"Image Based Classification of Skin Cancer using Convolution Neural Network,\" now published in IEEE Xplore (2023).  \n\nCloud-Based Heart Disease Data Warehousing and Predictive Analysis with AWS S3 and Redshift  \n\u2022 Analyzed the Cleveland Heart Disease dataset, identifying key risk factors and achieving 84.16% accuracy with Gaussian Naive Bayes.  \n\u2022 Built a cloud-based data warehouse using AWS S3 and Amazon Redshift with secure IAM access controls.  \n\u2022 Developed an interactive Power BI dashboard to visualize heart disease trends, patient demographics, and risk factors.  \n\nGreen Energy Feasibility Prediction using ML  \n\u2022 Developed a React application that predicts a region's real-time wind and solar energy output by analyzing real-time climate parameters and past historical data.  \n\u2022 The application employs multiple ML models (Linear Regression, MLP, and LSTM) to predict solar and wind energy output.  \n\u2022 Presented paper at a conference titled \"Forecasting Renewable Energy Generation: A Predictive Modelling Approach,\" now published in IEEE Xplore (2024).  \n\n**CERTIFICATIONS**  \n\u2022 Machine Learning Specialization on Coursera by Stanford University and DeepLearning.AI, August 2023.  \n\u2022 Natural Language Processing in Tensorflow on Coursera by DeepLearning.AI, October 2023.  \n\u2022 IBM Data Analysis with Python on Coursera, January 2023.  \n\u2022 IBM Databases and SQL for Data Science with Python, December 2022.",
+  "technical_skill_gaps": [
+    "Statistical Analysis (R, SAS)",
+    "Data Management",
+    "ETL Processes",
+    "Database Design",
+    "Data Warehousing",
+    "Statistical Software Proficiency"
+  ],
+  "soft_skill_gaps": [
+    "Attention to Detail",
+    "Time Management",
+    "Curiosity",
+    "Customer Service Orientation",
+    "Presentation Skills"
+  ],
+  "transferable_skills": [
+    "Analytical Thinking",
+    "Problem Solving",
+    "Collaboration",
+    "Adaptability"
+  ],
+  "action_plan": {
+    "message": "Keep pushing forward, every step you take is a step towards your goals!",
+    "technical_skill_resources": {
+      "Statistical Analysis (R, SAS)": [
+        {
+          "title": "Data Science: Foundations using R Specialization",
+          "url": "https://www.coursera.org/specializations/data-science-foundations-r"
+        },
+        {
+          "title": "R for Data Science by Hadley Wickham and Garrett Grolemund",
+          "url": "https://www.oreilly.com/library/view/r-for-data/9781491950756/"
+        }
+      ],
+      "Data Management": [
+        {
+          "title": "Data Management for Clinical Research",
+          "url": "https://www.coursera.org/learn/data-management"
+        },
+        {
+          "title": "Data Management for Researchers by Kristin Briney",
+          "url": "https://www.oreilly.com/library/view/data-management-for/9781491945653/"
+        }
+      ],
+      "ETL Processes": [
+        {
+          "title": "ETL and Data Warehousing for Beginners",
+          "url": "https://www.udemy.com/course/etl-and-data-warehousing-for-beginners/"
+        },
+        {
+          "title": "The Data Warehouse Toolkit by Ralph Kimball and Margy Ross",
+          "url": "https://www.wiley.com/en-us/The+Data+Warehouse+Toolkit%3A+The+Definitive+Guide+to+Dimensional+Modeling%2C+3rd+Edition-p-9781119473690"
+        }
+      ],
+      "Database Design": [
+        {
+          "title": "Database Design and Management",
+          "url": "https://www.coursera.org/learn/database-design"
+        },
+        {
+          "title": "Database Design for Mere Mortals by Michael J. Hernandez",
+          "url": "https://www.oreilly.com/library/view/database-design-for/9780321928834/"
+        }
+      ],
+      "Data Warehousing": [
+        {
+          "title": "Data Warehousing for Business Intelligence Specialization",
+          "url": "https://www.coursera.org/specializations/data-warehousing"
+        },
+        {
+          "title": "Building the Data Warehouse by William H. Inmon",
+          "url": "https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9781119472020"
+        }
+      ],
+      "Statistical Software Proficiency": [
+        {
+          "title": "Statistics with R Specialization",
+          "url": "https://www.coursera.org/specializations/statistics"
+        },
+        {
+          "title": "The Art of R Programming by Norman Matloff",
+          "url": "https://www.manning.com/books/the-art-of-r-programming"
+        }
+      ]
+    },
+    "soft_skill_resources": {
+      "Attention to Detail": [
+        {
+          "title": "The Importance of Attention to Detail in the Workplace",
+          "url": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/03/23/the-importance-of-attention-to-detail-in-the-workplace/"
+        }
+      ],
+      "Time Management": [
+        {
+          "title": "Time Management Fundamentals",
+          "url": "https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/424902-2.html"
+        }
+      ],
+      "Curiosity": [
+        {
+          "title": "The Power of Curiosity in the Workplace",
+          "url": "https://hbr.org/2018/05/the-power-of-curiosity-in-the-workplace"
+        }
+      ],
+      "Customer Service Orientation": [
+        {
+          "title": "Customer Service Skills for the Workplace",
+          "url": "https://www.udemy.com/course/customer-service-skills-for-the-workplace/"
+        }
+      ],
+      "Presentation Skills": [
+        {
+          "title": "How to Give a Great Presentation",
+          "url": "https://www.coursera.org/learn/presentation-skills"
+        }
+      ]
+    },
+    "transferable_skill_resources": {
+      "Analytical Thinking": [
+        {
+          "title": "Analytical Thinking: How to Improve Your Skills",
+          "url": "https://www.mindtools.com/pages/article/newTMC_96.htm"
+        }
+      ],
+      "Problem Solving": [
+        {
+          "title": "Problem Solving Techniques",
+          "url": "https://www.coursera.org/learn/problem-solving"
+        }
+      ],
+      "Collaboration": [
+        {
+          "title": "Collaboration and Teamwork",
+          "url": "https://www.udemy.com/course/collaboration-and-teamwork/"
+        }
+      ],
+      "Adaptability": [
+        {
+          "title": "Developing Adaptability as a Manager",
+          "url": "https://www.coursera.org/learn/adaptability"
+        }
+      ]
+    }
+  }
+}
