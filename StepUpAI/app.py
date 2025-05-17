@@ -35,7 +35,7 @@ def page_1():
             st.session_state.page = 2
 
 def load_examples():
-            with open("skill_gap_analysis.json", "r") as f:
+            with open("/mount/src/stepupyourcareer.ai/StepUpAI/skill_gap_analysis.json", "r") as f:
                 examples = json.load(f)
             example_texts = [
                 f"Resume: {ex['resume_summary']} | Role: {ex['target_role']}" for ex in examples
@@ -46,7 +46,7 @@ def load_examples():
 # === Load Role Skills ===
 @st.cache_data
 def load_role_skills():
-    with open("role_skills.json", "r") as f:
+    with open("/mount/src/stepupyourcareer.ai/StepUpAI/role_skills.json", "r") as f:
         role_skills_list = json.load(f)
         return {
             entry["role"]: {
@@ -171,7 +171,7 @@ def extract_json_from_response(raw):
     return {}
 
 def load_skill_resources():
-    with open("skill_resource_mapping.json", "r") as f:
+    with open("/mount/src/stepupyourcareer.ai/StepUpAI/skill_resource_mapping.json", "r") as f:
         return json.load(f)
 
 # Helper: Split skill lists into (in-RAG, out-of-RAG) 
