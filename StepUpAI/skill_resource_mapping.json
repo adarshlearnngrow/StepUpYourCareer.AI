@@ -1,0 +1,286 @@
+{
+  "API SKILL DEVELOPMENT": [
+    {
+      "title": "API Development (Coursera)",
+      "url": "https://www.coursera.org/learn/codio-api-development"
+    },
+    {
+      "title": "Introduction to REST APIs for Absolute Beginners (Udemy)",
+      "url": "https://www.udemy.com/course/api-with-postman-for-absolute-beginners/?couponCode=CP130525"
+    },
+    {
+      "title": "GitHub Repo",
+      "url": "https://github.com/tdonker/REST-API-books"
+    }
+  ],
+  "ADVANCED EXCEL SKILLS": [
+    {
+      "title": "MS Excel (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-excel-skills"
+    },
+    {
+      "title": "Excel: The Easiest Way to Master Microsoft Excel in 7 Days",
+      "url": "https://www.amazon.co.uk/Excel-Microsoft-Illustrations-Step-Step/dp/B0CQ44XR33/ref=zg_bs_g_14227791_d_sccl_1/257-5223043-3202547?psc=1"
+    }
+  ],
+  "AGILE METHODOLOGIES": [
+    {
+      "title": "Google Agile Essentials (Coursera)",
+      "url": "https://www.coursera.org/learn/google-agile-essentials"
+    },
+    {
+      "title": "Agile Project Management For Dummies",
+      "url": "https://amzn.eu/d/9yg4YB8"
+    }
+  ],
+  "ALGORITHM DEVELOPMENT": [
+    {
+      "title": "Algorithms Specialisation (Coursera)",
+      "url": "https://www.coursera.org/specializations/algorithms"
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "url": "https://amzn.eu/d/h39SRa6"
+    },
+    {
+      "title": "Abdul Bari on Youtube",
+      "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+    }
+  ],
+  "ARTIFICIAL INTELLIGENCE": [
+    {
+      "title": "Artificial Intelligence: A Modern Approach",
+      "url": "https://amzn.eu/d/cPjUlHm"
+    },
+    {
+      "title": "Artificial Intelligence A-Z 2025 (Udemy)",
+      "url": "https://www.udemy.com/course/artificial-intelligence-az/"
+    }
+  ],
+  "BIG DATA TECHNOLOGIES - HADOOP": [
+    {
+      "title": "Hadoop -The Definitive Guide",
+      "url": "https://www.amazon.co.uk/dp/1491901632?ref_=cm_sw_r_ffobk_cp_ud_dp_67N7ZR7YABCZF18GHBBP&bestFormat=true"
+    },
+    {
+      "title": "The Ultimate Hands-On Hadoop (Udemy)",
+      "url": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
+    }
+  ],
+  "BIG DATA TECHNOLOGIES": [
+    {
+      "title": "Mastering Big Data: Spark, Scala, Kafka, Hadoop,Hive & More (Udemy)",
+      "url": "https://www.udemy.com/course/the-big-data-developer-course/?couponCode=CP130525"
+    },
+    {
+      "title": "NoSQL, Big Data and Spark Foundations (Coursera)",
+      "url": "https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations"
+    }
+  ],
+  "BUSINESS INTELLIGENCE REPORTING": [
+    {
+      "title": "Microsoft Power BI Data Analyst (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst"
+    },
+    {
+      "title": "Microsoft Power BI Cookbook",
+      "url": "https://amzn.eu/d/eRzc3VJ"
+    }
+  ],
+  "BUSINESS INTELLIGENCE TOOLS": [
+    {
+      "title": "IBM Business Intelligence (BI) Analyst Professional Certificate (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/bi-analyst"
+    },
+    {
+      "title": "Microsoft Power BI Cookbook",
+      "url": "https://amzn.eu/d/eRzc3VJ"
+    }
+  ],
+  "BUSINESS PROCESS MODELLING": [
+    {
+      "title": "IBM - Process Modelling",
+      "url": "https://www.ibm.com/think/topics/process-modeling"
+    },
+    {
+      "title": "Effective Modern C++",
+      "url": "https://amzn.eu/d/4L84v7O"
+    },
+    {
+      "title": "Coding for Everyone: C and C++ Specialization",
+      "url": "https://www.coursera.org/specializations/coding-for-everyone"
+    }
+  ],
+  "CLOUD COMPUTING": [
+    {
+      "title": "Cloud Computing: Concepts, Technology, Security, and Architecture",
+      "url": "https://amzn.eu/d/d1ZsXTv"
+    },
+    {
+      "title": "Cloud Computing Foundations (Coursera)",
+      "url": "https://www.coursera.org/learn/cloud-computing-foundations-duke"
+    }
+  ],
+  "COMPUTER VISION": [
+    {
+      "title": "Python for Computer Vision with OpenCV and Deep Learning (Udemy)",
+      "url": "https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/?couponCode=CP130525"
+    }
+  ],
+  "DATA ANALYSIS": [
+    {
+      "title": "Data Analysis with Python - IBM (Coursera)",
+      "url": "https://www.coursera.org/learn/data-analysis-with-python"
+    },
+    {
+      "title": "Data Analytics & Visualization All-in-One For Dummies",
+      "url": "https://amzn.eu/d/eRmEcLd"
+    }
+  ],
+  "DATA CLEANING": [
+    {
+      "title": "DeepLearning.AI Data Analytics Professional Certificate (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/data-analytics"
+    },
+    {
+      "title": "Data Analytics & Visualization All-in-One For Dummies",
+      "url": "https://amzn.eu/d/eRmEcLd"
+    }
+  ],
+  "DATA MANAGEMENT": [
+    {
+      "title": "IBM Data Management Professional Certificate (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-manager"
+    },
+    {
+      "title": "Principles of Data Management",
+      "url": "https://amzn.eu/d/5bcBMvZ"
+    }
+  ],
+  "DATA MANIPULATION": [
+    {
+      "title": "DeepLearning.AI Data Analytics Professional Certificate (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/data-analytics"
+    },
+    {
+      "title": "Data Analytics & Visualization All-in-One For Dummies",
+      "url": "https://amzn.eu/d/eRmEcLd"
+    }
+  ],
+  "DATA MODELLING": [
+    {
+      "title": "Data Analysis with Python - IBM (Coursera)",
+      "url": "https://www.coursera.org/learn/data-analysis-with-python"
+    },
+    {
+      "title": "Data Analytics & Visualization All-in-One For Dummies",
+      "url": "https://amzn.eu/d/eRmEcLd"
+    }
+  ],
+  "DATA VISUALISATION": [
+    {
+      "title": "Data Analysis with Python - IBM (Coursera)",
+      "url": "https://www.coursera.org/learn/data-analysis-with-python"
+    },
+    {
+      "title": "Data Analytics & Visualization All-in-One For Dummies",
+      "url": "https://amzn.eu/d/eRmEcLd"
+    }
+  ],
+  "DATA WAREHOUSING": [
+    {
+      "title": "Data Warehousing For Dummies",
+      "url": "https://amzn.eu/d/cca0GyD"
+    },
+    {
+      "title": "Data Warehouse Fundamentals (Coursera)",
+      "url": "https://www.coursera.org/learn/data-warehouse-fundamentals"
+    }
+  ],
+  "DATABASE DESIGN": [
+    {
+      "title": "Database Design for Mere Mortals",
+      "url": "https://amzn.eu/d/hSiPPnR"
+    },
+    {
+      "title": "Relational Database Design (Udemy)",
+      "url": "https://www.udemy.com/course/relational-database-design/?couponCode=CP130525"
+    }
+  ],
+  "DATABASE MANAGEMENT": [
+    {
+      "title": "Meta Database Engineer Professional Certificate (Coursera)",
+      "url": "https://www.coursera.org/professional-certificates/meta-database-engineer"
+    },
+    {
+      "title": "Database Management Systems",
+      "url": "https://amzn.eu/d/etPusTZ"
+    }
+  ],
+  "DEEP LEARNING": [
+    {
+      "title": "Deep Learning",
+      "url": "https://amzn.eu/d/e4oBabT"
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "url": "https://www.coursera.org/specializations/deep-learning"
+    }
+  ],
+  "DOCUMENTATION SKILLS": [
+    {
+      "title": "Technical Communication",
+      "url": "https://researchrepository.ul.ie/articles/chapter/Technical_communication_and_technical_documentation/28053122?file=51272366"
+    },
+    {
+      "title": "Types of Technical Documentation",
+      "url": "https://whatfix.com/blog/types-of-technical-documentation/"
+    }
+  ],
+  "EMBEDDED SYSTEMS": [
+    {
+      "title": "Real-Time Embedded Systems Specialization",
+      "url": "https://www.coursera.org/specializations/real-time-embedded-systems"
+    },
+    {
+      "title": "Making Embedded Systems",
+      "url": "https://amzn.eu/d/2cBM5A2"
+    }
+  ],
+  "ETL PROCESSES": [
+    {
+      "title": "The Data Warehouse ETL Toolkit",
+      "url": "https://amzn.eu/d/3S2JS7G"
+    },
+    {
+      "title": "BI Foundations with SQL, ETL and Data Warehousing Specialization (Coursera)",
+      "url": "https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse"
+    }
+  ],
+  "JAVA": [
+    {
+      "title": "Object Oriented Programming in Java Specialization",
+      "url": "https://www.coursera.org/specializations/object-oriented-programming"
+    },
+    {
+      "title": "Learn Java with Projects",
+      "url": "https://amzn.eu/d/70o4LgZ"
+    }
+  ],
+  "MACHINE LEARNING": [
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow",
+      "url": "https://amzn.eu/d/cUYdGNZ"
+    },
+    {
+      "title": "Machine Learning Specialization",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+    }
+  ],
+  "POWERPOINT": [
+    {
+      "title": "Powerpoint for Windows",
+      "url": "https://support.microsoft.com/en-us/office/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787"
+    }
+  ]
+}
