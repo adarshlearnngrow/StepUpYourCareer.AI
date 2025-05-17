@@ -267,11 +267,13 @@ def generate_hybrid_action_plan(tech, soft, trans, skill_resources):
 
         return plan
 
-            
+import os
+print("Working directory:", os.getcwd())
+print("Files in ./models:", os.listdir("models"))           
 # Load Mentor Clustering Model & Vectorizer
-with open('models//mentor_clustering_model.pkl', 'rb') as f:
+with open('models/mentor_clustering_model.pkl', 'rb') as f:
         kmeans_final = joblib.load(f)
-with open('models//fitted_vectorizer.pkl', 'rb') as f:
+with open('models/fitted_vectorizer.pkl', 'rb') as f:
     vectorizer = joblib.load(f)
 mentors_final_data = pd.read_json("mentors_final_data.json")
 
