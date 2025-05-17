@@ -272,7 +272,7 @@ with open('/mount/src/stepupyourcareer.ai/StepUpAI/models/mentor_clustering_mode
         kmeans_final = joblib.load(f)
 with open('/mount/src/stepupyourcareer.ai/StepUpAI/models/fitted_vectorizer.pkl', 'rb') as f:
     vectorizer = joblib.load(f)
-mentors_final_data = pd.read_json("mentors_final_data.json")
+mentors_final_data = pd.read_json("/mount/src/stepupyourcareer.ai/StepUpAI/mentors_final_data.json")
 
 def page_2():
     st.title("📄 Resume Analyzer + Mentor Recommender")
