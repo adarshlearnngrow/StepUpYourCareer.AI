@@ -269,9 +269,9 @@ def generate_hybrid_action_plan(tech, soft, trans, skill_resources):
 
             
 # Load Mentor Clustering Model & Vectorizer
-with open('StepUpAI//models//mentor_clustering_model.pkl', 'rb') as f:
+with open('models//mentor_clustering_model.pkl', 'rb') as f:
         kmeans_final = joblib.load(f)
-with open('StepUpAI//models//fitted_vectorizer.pkl', 'rb') as f:
+with open('models//fitted_vectorizer.pkl', 'rb') as f:
     vectorizer = joblib.load(f)
 mentors_final_data = pd.read_json("mentors_final_data.json")
 
