@@ -2,6 +2,8 @@
 
 An AI-powered career assistant that helps students and job seekers identify **skill gaps**, receive **personalized learning roadmaps**, and connect with **industry mentors**—all from a single resume upload.
 
+### Link to the website: https://stepupyourcareer.streamlit.app/
+
 ---
 
 ## Problem
